@@ -1,0 +1,37 @@
+_repo: Connecticut-Wide-Awake-Songster_51226
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Hutchinson, John W. (John Wallace)
+    aliases:
+    - Hutchinson, J. W. (John Wallace)
+    - Hutchinson, John Wallace
+    birthdate: 1821
+    deathdate: 1908
+    gutenberg_agent_id: '46315'
+    url: http://www.gutenberg.org/2009/agents/46315
+  - agent_name: Jepson, B. (Benjamin)
+    alias: Jepson, Benjamin
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '46316'
+    url: http://www.gutenberg.org/2009/agents/46316
+    wikipedia: https://en.wikipedia.org/wiki/Benjamin_Jepson
+description: ''
+gutenberg_issued: '2016-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Campaign songs, 1860 -- Republican -- Texts'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Songs and music -- Texts'
+- !lcc 'E300'
+- !lcsh 'Political ballads and songs -- United States -- Texts'
+- GITenberg
+title: Connecticut Wide-Awake Songster
+url: http://www.gutenberg.org/ebooks/51226
