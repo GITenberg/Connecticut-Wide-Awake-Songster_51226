@@ -1,5 +1,8 @@
 _repo: Connecticut-Wide-Awake-Songster_51226
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51226-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Hutchinson, John W. (John Wallace)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46316
     wikipedia: https://en.wikipedia.org/wiki/Benjamin_Jepson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51226#Connecticut-Wide-Awake-Songster
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
 identifiers:
